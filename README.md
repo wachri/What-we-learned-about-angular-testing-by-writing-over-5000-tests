@@ -8,3 +8,7 @@ what we learned about angular testing by writing over 5000 tests.
 1. Speed
 1. Pitfalls
 1. More learnings
+
+## Url
+Slides are deployed to https://wachri.github.io/What-we-learned-about-angular-testing-by-writing-over-5000-tests
+
